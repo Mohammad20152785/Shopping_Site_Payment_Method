@@ -2,39 +2,39 @@
     "music": [{
             "id": 1,
             "name": "Album 1 ",
-            "price": 1299,
-            "imgName": "Album 1.png"
+            "price": 1999,
+            "imgName": "album1.jpg"
         },
         {
             "id": 2,
             "name": "Album 2",
-            "price": 1499,
-            "imgName": "Album 2.png"
+            "price": 2099,
+            "imgName": "album2.jpg"
         },
         {
             "id": 3,
             "name": "Album 3",
-            "price": 999,
-            "imgName": "Album 3.png"
+            "price": 1499,
+            "imgName": "album3.jpg"
         },
         {
             "id": 4,
             "name": "Album 4",
-            "price": 1999,
-            "imgName": "Album 4.png"
+            "price": 2999,
+            "imgName": "album4.jpg"
         }
     ],
     "merch": [{
             "id": 5,
-            "name": "T-Shirt",
-            "price": 1999,
-            "imgName": "Shirt.png"
+            "name": "T-Shirt 1",
+            "price": 3999,
+            "imgName": "tshirt1.jpg"
         },
         {
             "id": 6,
-            "name": "Coffee Cup",
-            "price": 699,
-            "imgName": "Cofee.png"
+            "name": "T-Shirt 2",
+            "price": 4999,
+            "imgName": "tshirt2.jpg"
         }
     ]
 }
